@@ -2,6 +2,7 @@
 
 
 > [https://ubivpn.com](https://ubivpn.com)  
+> [https://t.me/UbiVPN](https://t.me/UbiVPN)  
 
 
 [![Google Play](https://raw.githubusercontent.com/UbiVPN/UbiVPN/main/assets/google.svg)](https://play.google.com/store/apps/details?id=com.UbiVPN.fmobiles&pli=1)
