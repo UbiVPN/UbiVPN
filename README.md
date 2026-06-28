@@ -17,12 +17,17 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.UbiVPN.fmobiles">
-    <img src="./assets/google.svg" alt="Google Play" height="40"/>
+  <a href="https://ubivpn.com/download">
+    <img src="./assets/google.svg" alt="Download APK" height="40"/>
   </a>
   <a href="https://apps.apple.com/us/app/ubivpn/id6475045953">
     <img src="./assets/apple.svg" alt="App Store" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  📥 <b><a href="https://ubivpn.com/download">Direct APK download → ubivpn.com/download</a></b><br/>
+  <sub>Google Play removed us. We're still here. 🇷🇺🇮🇷🌏</sub>
 </p>
 
 ---
@@ -72,10 +77,18 @@ We don't do big speeches about internet freedom. We just build software that mak
 
 ## 📲 Get Started
 
-1. Download from [App Store](https://apps.apple.com/us/app/ubivpn/id6475045953) or [Google Play](https://play.google.com/store/apps/details?id=com.UbiVPN.fmobiles)
-2. Install
-3. Tap "Connect"
-4. Internet works. Magic? No. Just UbiVPN.
+**Android:**
+1. Download APK from [ubivpn.com/download](https://ubivpn.com/download)
+2. Open the file and install (enable "Install from unknown sources" if prompted)
+3. Open UbiVPN, tap "Connect"
+4. That's it. Internet works.
+
+**iOS:**
+1. Download from [App Store](https://apps.apple.com/us/app/ubivpn/id6475045953)
+2. Install, tap "Connect"
+3. Done.
+
+> Google Play took us down, but we're not going anywhere. Download directly — it's safer anyway.
 
 ## 💬 Community
 
