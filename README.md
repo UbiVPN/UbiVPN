@@ -17,17 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="https://ubivpn.com/download">
-    <img src="./assets/google.svg" alt="Download APK" height="40"/>
-  </a>
   <a href="https://apps.apple.com/us/app/ubivpn/id6475045953">
     <img src="./assets/apple.svg" alt="App Store" height="40"/>
   </a>
 </p>
 
 <p align="center">
-  📥 <b><a href="https://ubivpn.com/download">Direct APK download → ubivpn.com/download</a></b><br/>
-  <sub>Google Play removed us. We're still here. 🇷🇺🇮🇷🌏</sub>
+  📥 <b><a href="https://ubivpn.com/download">Download APK → ubivpn.com/download</a></b><br/>
+  <sub>Android: Google Play removed us. Direct download still works. iOS: grab it on the App Store.</sub>
 </p>
 
 ---
