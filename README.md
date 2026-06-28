@@ -1,26 +1,97 @@
-![UbiVPN](./assets/logo.png "UbiVPN")  
+<p align="center">
+  <img src="./assets/logo.png" alt="UbiVPN" width="120"/>
+</p>
 
+<h1 align="center">UbiVPN</h1>
 
-> [https://ubivpn.com](https://ubivpn.com)  
-> [https://t.me/UbiVPN](https://t.me/UbiVPN)  
+<p align="center">
+  <b>The internet was supposed to be free.</b><br/>
+  We're just here to restore the balance.
+</p>
 
+<p align="center">
+  <a href="https://ubivpn.com">🌐 Website</a> ·
+  <a href="https://t.me/UbiVPN">💬 Telegram</a> ·
+  <a href="https://t.me/UbiVPN">📢 Official Group</a> ·
+  <a href="https://x.com/UbiVPN">🐦 X / Twitter</a>
+</p>
 
-[![Google Play](https://raw.githubusercontent.com/UbiVPN/UbiVPN/main/assets/google.svg)](https://play.google.com/store/apps/details?id=com.UbiVPN.fmobiles&pli=1)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.UbiVPN.fmobiles">
+    <img src="./assets/google.svg" alt="Google Play" height="40"/>
+  </a>
+  <a href="https://apps.apple.com/us/app/ubivpn/id6475045953">
+    <img src="./assets/apple.svg" alt="App Store" height="40"/>
+  </a>
+</p>
 
+---
 
+## 🌍 What is UbiVPN?
 
-[![Apple store](https://raw.githubusercontent.com/UbiVPN/UbiVPN/main/assets/apple.svg)](https://apps.apple.com/us/app/ubivpn/id6475045953)
+UbiVPN is a **free, fast, privacy-first VPN** that actually works where you need it most.
 
+Built for people who live in countries where the internet isn't quite... free. Whether it's blocked websites, throttled streaming, or the government deciding what you can and can't see — UbiVPN gives you back control.
 
-- English: UbiVPN is a free, ubiquitous VPN that protects your privacy and security, unlocking websites and streaming.
-- Russian: UbiVPN - это бесплатный, повсеместный VPN, который защищает вашу конфиденциальность и безопасность, открывает доступ к веб-сайтам и стриминговым сервисам.
-- Traditional Chinese: UbiVPN 是一款免費的無處不在的VPN，保護你的隱私安全，解鎖網站和流媒體。
-- Persian: UbiVPN یک VPN رایگان و همه‌جا حاضر است که حریم خصوصی و امنیت شما را محافظت می‌کند، وب‌سایت‌ها و پخش زنده را باز می‌کند.
-- Arabic: UbiVPN هو VPN مجاني ومتوفر في كل مكان يحمي خصوصيتك وأمانك، ويفتح المواقع الإلكترونية والبث المباشر.
-- Turkmen: UbiVPN mugt, her ýerde bar bolan VPN, şahsyýetiňizi we howpsuzlygyňyzy gorap, websaýtlary we akym edýänleri açýar.
-- Indonesian: UbiVPN adalah VPN gratis yang ada di mana-mana, melindungi privasi dan keamanan Anda, membuka situs web dan streaming.
-- Japanese: UbiVPNは無料でどこにでもあるVPNで、あなたのプライバシーとセキュリティを守り、ウェブサイトとストリーミングを解除します。
-- Spanish: UbiVPN es un VPN gratuito y omnipresente que protege tu privacidad y seguridad, desbloqueando sitios web y streaming.
-- Hindi: UbiVPN एक मुफ्त, सर्वव्यापी VPN है जो आपकी गोपनीयता और सुरक्षा की रक्षा करता है, वेबसाइटों और स्ट्रीमिंग को अनलॉक करता है।
+No logs. No selling your data. No "premium" upsells. Just working code.
 
+We don't do big speeches about internet freedom. We just build software that makes it possible.
 
+## 🛡️ Why UbiVPN?
+
+|                        | UbiVPN | Others |
+|------------------------|--------|--------|
+| **Free**               | ✅     | ❌ / freemium |
+| **Zero logs**          | ✅     | ❌ most log |
+| **DPI obfuscation**    | ✅     | ❌ easy to detect |
+| **Dynamic IP pool**    | ✅     | ❌ static servers |
+| **No data selling**    | ✅     | ❌ common |
+| **Works in Russia**    | ✅     | ❌ usually blocked |
+| **Works in Iran**      | ✅     | ❌ usually blocked |
+
+> "But how does it stay free if it doesn't sell my data?"
+> 
+> Good question. We keep it lean, run it efficiently, and believe that privacy shouldn't be a luxury.
+
+## 🎯 Who is it for?
+
+**🇷🇺 For Russia** — DPI blocking, РКН restrictions, YouTube throttling, Telegram shenanigans. We've seen it all. And we work around all of it.
+
+**🇮🇷 For Iran** — Internet filtering, smart filtering, app blocks, the whole package. UbiVPN was tested in the toughest environments.
+
+**🌏 For everyone else** — Privacy isn't just for censored countries. Use it anywhere.
+
+## ✨ Features
+
+- **🔄 Dynamic servers** — Thousands of IPs, constantly rotating. Can't block what doesn't stay still.
+- **🔒 Strong encryption** — WireGuard-based, modern protocols.
+- **🚫 No logs** — We don't track what you do. We don't want to know.
+- **📱 Cross-platform** — iOS, Android. More platforms coming.
+- **⚡ Fast** — Optimized for speed, not just censorship evasion.
+- **🔧 Zero config** — Install, tap connect, done. That's it.
+
+## 📲 Get Started
+
+1. Download from [App Store](https://apps.apple.com/us/app/ubivpn/id6475045953) or [Google Play](https://play.google.com/store/apps/details?id=com.UbiVPN.fmobiles)
+2. Install
+3. Tap "Connect"
+4. Internet works. Magic? No. Just UbiVPN.
+
+## 💬 Community
+
+- **Telegram Group** — [@UbiVPN](https://t.me/UbiVPN) — for help, updates, memes
+- **X / Twitter** — [@UbiVPN](https://x.com/UbiVPN) — daily content in Russian & Persian
+- **Website** — [ubivpn.com](https://ubivpn.com)
+
+## 🤝 Philosophy
+
+We believe the internet should be open. Not because we're activists. Because we're engineers, and broken networks annoy us.
+
+If you're reading this from a country where some sites don't load — we built this for you.
+
+---
+
+<p align="center">
+  <sub>Free internet isn't free. But UbiVPN is.</sub><br/>
+  <sub>🛰️</sub>
+</p>
